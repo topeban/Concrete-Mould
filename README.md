@@ -12,7 +12,7 @@ and her the same with more details
 Another plan for a bird house in three parts
         http://www.1-2-do.com/de/projekt/Nistroehre-aus-Holzbeton_-3-_/bauanleitung-zum-selber-bauen/19325/
 
-Here tile cement was used to fix the rooftop to the housing.
+Tile cement was used to fix the rooftop to the housing.
         
 
 Groundplate (Bottom) to hold the outer mold while the concrete is hardened
