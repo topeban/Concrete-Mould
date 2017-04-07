@@ -1,7 +1,12 @@
 # Concrete-Mold
-A Mold for a Bird-House made of Wood-Concrete.
+A Mold for a Bird-House made of Wood-Concrete. 
+
 There a many different recipes for Wood-Concrete on the Internet.
-  e.g.  http://darmstadt.bund.net/fileadmin/bundgruppen/bcmsovdarmstadt/service_und_beratung/voegel/4415_nistkaestenholzbeton.pdf
+  e.g.  
+  http://darmstadt.bund.net/fileadmin/bundgruppen/bcmsovdarmstadt/service_und_beratung/voegel/4415_nistkaestenholzbeton.pdf
+and her the same with more details  
+
+        http://www.pirol.de/Ausg_0302/nistkasten.htm
 
 Groundplate (Bottom) to hold the outer mold while the concrete is hardened
 
